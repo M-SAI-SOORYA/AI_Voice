@@ -6,4 +6,4 @@ It will wish us based on our timing and can go to AI mode by saying "go to Ai mo
 It will get response from open AI API in according to your request your spoke of.
 If you say stop it will stop and you have to click on the button again for reusing it.
 You should use your own api key, not mine or else error will occur.
-You can run the wen app by streamlit run jarvis.py
+You can run the web app by streamlit run jarvis.py
